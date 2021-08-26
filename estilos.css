@@ -74,3 +74,9 @@ input:hover{
 input:active{
     background: black;
 }
+
+figure img:hover
+{
+    -webkit-transform: scale(1.2);
+    -webkit-transform: rotate(2deg);
+}
